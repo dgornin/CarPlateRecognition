@@ -1,0 +1,4 @@
+train: Dataset/train/images
+val:   Dataset/train/images
+nc : 1
+names: ['license']
